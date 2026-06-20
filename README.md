@@ -4,7 +4,7 @@
 
 I'm a passionate **Computer Engineering student (Class of '26)** and a **Game Developer**. I love solving complex engineering puzzles, whether that means managing heavy game assets with Git LFS, writing custom state machines, or tinkering with network protocols.
 
-- 🔭 I’m currently working on a **Multiplayer FPS Game** (Unity & Photon) and an IoT-based parking management system (**ParkRota**).
+- 🔭 I’m currently working on a **Multiplayer FPS Game** (Unity & Photon) 
 - 🌱 I’m currently deep-diving into **Network Architecture**, **System Administration**, and **Advanced C# Mechanics**.
 - 💬 Ask me about **Unity 3D, Object-Oriented Programming, C/C++, and Python**.
 - 📫 How to reach me: https://www.linkedin.com/in/ahmet-%C3%A7a%C4%9Fr%C4%B1-azman-99b237240/?skipRedirect=true
