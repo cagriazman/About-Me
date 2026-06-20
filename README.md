@@ -7,7 +7,7 @@ I'm a passionate **Computer Engineering student (Class of '26)** and a **Game De
 - 🔭 I’m currently working on a **Multiplayer FPS Game** (Unity & Photon) and an IoT-based parking management system (**ParkRota**).
 - 🌱 I’m currently deep-diving into **Network Architecture**, **System Administration**, and **Advanced C# Mechanics**.
 - 💬 Ask me about **Unity 3D, Object-Oriented Programming, C/C++, and Python**.
-- 📫 How to reach me: [Senin LinkedIn Linkin veya Email Adresin]
+- 📫 How to reach me: https://www.linkedin.com/in/ahmet-%C3%A7a%C4%9Fr%C4%B1-azman-99b237240/?skipRedirect=true
 - ⚡ Fun fact: At 199 cm, I might be one of the tallest developers you'll ever collaborate with—I literally look down on my bugs! 🐛
 
 ### 🛠️ Tech Stack & Tools
