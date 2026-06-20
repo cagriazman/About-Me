@@ -18,4 +18,4 @@ I'm a passionate **Computer Engineering student (Class of '26)** and a **Game De
 * **Tools & Networking:** Git, Git LFS, Wireshark, Windows/Linux System Admin
 
 ### 📈 GitHub Stats
-![Çağrı's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radium)
+![Çağrı's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagriazman&show_icons=true&theme=radium)
